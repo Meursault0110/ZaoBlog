@@ -84,7 +84,7 @@ export const integ: IntegrationUserConfig = {
       name: theme.title,
       desc: theme.description || 'Null',
       url: 'https://astro-pure.js.org',
-      avatar: 'https://astro-pure.js.org/favicon/favicon.ico'
+      avatar: 'favicon/favicon.ico'
     }
   },
   pagefind: true,
